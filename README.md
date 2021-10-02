@@ -2,7 +2,7 @@
 SRE Documents and collaboration
 
 
-## DevOps Influencers
+## SRE/DevOps Influencers
 
     - Martin Fowler
     - Patrick Debois
@@ -13,8 +13,9 @@ SRE Documents and collaboration
     - Nicole Forsgren
 
 
-## Books
+## DevOps/SRE Books
 
+    Site Reliability Engineering - Google Engineers
     The Phoenix Project - Gene Kim
     The DevOps Project - Gene Kim
     Engineering DevOps - Mark Hornbeek
@@ -22,7 +23,7 @@ SRE Documents and collaboration
     The Goal - Eliyahu Goldratt
 
 
-## DevOps Certifications
+## SRE/DevOps Certifications
 
 - [Devops institute certifications](https://devopsinstitute.com/certifications/)
 - [Jenkins Certifications](https://www.cloudbees.com/jenkins/certification)
@@ -36,7 +37,7 @@ SRE Documents and collaboration
 - [Nagios Certifications](https://www.nagios.com/services/certification/)    
 
 
-## Cloud Based DevOps Certifications
+## Cloud Based SRE/DevOps Certifications
 
 - [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 - [Google Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
